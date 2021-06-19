@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 notebooks/EDA.ipynb
+notebooks/testing_2.ipynb
+notebooks/ref/*
