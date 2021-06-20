@@ -1,0 +1,5 @@
+data_path: '../data/final_df.csv'
+group: 'version'
+target: 'retention_1'
+group_a: 'gate_30'
+group_b: 'gate_40'
